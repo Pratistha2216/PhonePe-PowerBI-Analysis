@@ -12,14 +12,14 @@ The project demonstrates an end-to-end data analytics workflow, including data c
 The primary objective of this project is to transform raw PhonePe transaction data into an interactive and easy-to-understand business intelligence dashboard.
 
 Key objectives:
-1. Analyze overall transaction performance
-2. Identify transaction trends over time
-3. Compare state-wise transaction activity
-4. Analyze transaction categories
-5. Understand geographical transaction patterns
-6. Create meaningful KPIs
-7. Build an interactive dashboard for business analysis
-8. Generate actionable insights from transaction data
+📌 Analyze overall transaction performance
+📌 Identify transaction trends over time
+📌 Compare state-wise transaction activity
+📌 Analyze transaction categories
+📌 Understand geographical transaction patterns
+📌 Create meaningful KPIs
+📌 Build an interactive dashboard for business analysis
+📌 Generate actionable insights from transaction data
 
 4. Tools & Technologies : 
 Tool	Purpose
@@ -66,24 +66,26 @@ Average Transaction Value =DIVIDE(
 
 These measures were used throughout the dashboard to provide dynamic results.
 
+
 6. Dashboard Features : 
 The dashboard contains multiple interactive visualizations and KPIs.
-1. KPI Cards: Displays important metrics such as:
+
+📌 KPI Cards: Displays important metrics such as:
 Total Transaction Amount
 Total Transaction Count
 Average Transaction Value
 
-2. Transaction Trend Analysis: Analyzes transaction performance across:
+📌 Transaction Trend Analysis: Analyzes transaction performance across:
 Year
 Quarter
 Time period
-3. State-wise Analysis: Provides a comparison of transaction activity across different states.
+📌 State-wise Analysis: Provides a comparison of transaction activity across different states.
 
-4. Transaction Category Analysis: Helps identify the contribution and popularity of different transaction categories.
+📌Transaction Category Analysis: Helps identify the contribution and popularity of different transaction categories.
 
-5. Geographical Analysis: Provides insights into transaction activity across different geographical regions.
+📌 Geographical Analysis: Provides insights into transaction activity across different geographical regions.
 
-6. Interactive Filters: Users can dynamically filter the dashboard using:
+📌 Interactive Filters: Users can dynamically filter the dashboard using:
 Year
 Quarter
 State
