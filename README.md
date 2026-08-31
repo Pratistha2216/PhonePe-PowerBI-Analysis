@@ -30,6 +30,7 @@ Tool	Purpose
 5.  Excel / CSV	Data Source
 
 5. Project Workflow : 
+
 1.  Data Collection: The project uses PhonePe transaction data containing information related to transaction amounts, transaction counts, geographical locations, time periods, and transaction categories.
 
 2️. Data Cleaning: The raw data was cleaned and prepared using Power Query.
