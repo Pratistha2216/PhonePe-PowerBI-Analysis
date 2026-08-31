@@ -23,17 +23,17 @@ Key objectives:
 
 4. Tools & Technologies : 
 Tool	Purpose
-1.  Power BI	Dashboard & Data Visualization
-2.  ower Query	Data Cleaning & Transformation
-3.  AX	Measures & Calculations
-4. Data Modeling	Relationships & Data Structure
-5.  Excel / CSV	Data Source
+📌  Power BI	Dashboard & Data Visualization
+📌  ower Query	Data Cleaning & Transformation
+📌  AX	Measures & Calculations
+📌 Data Modeling	Relationships & Data Structure
+📌  Excel / CSV	Data Source
 
 5. Project Workflow : 
 
-1.  Data Collection: The project uses PhonePe transaction data containing information related to transaction amounts, transaction counts, geographical locations, time periods, and transaction categories.
+📌  Data Collection: The project uses PhonePe transaction data containing information related to transaction amounts, transaction counts, geographical locations, time periods, and transaction categories.
 
-2️. Data Cleaning: The raw data was cleaned and prepared using Power Query.
+📌 Data Cleaning: The raw data was cleaned and prepared using Power Query.
 The following operations were performed:
 Removed unnecessary columns
 Checked missing values
@@ -42,7 +42,7 @@ Corrected data types
 Standardized data
 Prepared the dataset for analysis
 
-3️. Data Transformation: The cleaned data was transformed into an analysis-ready format.
+📌 Data Transformation: The cleaned data was transformed into an analysis-ready format.
 Important dimensions included:
 Year
 Quarter
@@ -51,10 +51,10 @@ District
 Transaction Type
 Transaction Category
 
-4️. Data Modeling: A structured data model was created to establish relationships between relevant tables.
+📌 Data Modeling: A structured data model was created to establish relationships between relevant tables.
 The data model was designed to support accurate calculations and dynamic filtering throughout the dashboard.
 
-5️. DAX Calculations: DAX measures were created to calculate important business KPIs.
+📌 DAX Calculations: DAX measures were created to calculate important business KPIs.
 Example:
 Total Transaction Amount =SUM(Transaction[Transaction_Amount])
 Total Transactions =SUM(Transaction[Transaction_Count])
