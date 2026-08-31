@@ -12,22 +12,22 @@ The project demonstrates an end-to-end data analytics workflow, including data c
 The primary objective of this project is to transform raw PhonePe transaction data into an interactive and easy-to-understand business intelligence dashboard.
 
 Key objectives:
-Analyze overall transaction performance
-Identify transaction trends over time
-Compare state-wise transaction activity
-Analyze transaction categories
-Understand geographical transaction patterns
-Create meaningful KPIs
-Build an interactive dashboard for business analysis
-Generate actionable insights from transaction data
+1. Analyze overall transaction performance
+2. Identify transaction trends over time
+3. Compare state-wise transaction activity
+4. Analyze transaction categories
+5. Understand geographical transaction patterns
+6. Create meaningful KPIs
+7. Build an interactive dashboard for business analysis
+8. Generate actionable insights from transaction data
 
 4. Tools & Technologies : 
 Tool	Purpose
-📊 Power BI	Dashboard & Data Visualization
-🔄 Power Query	Data Cleaning & Transformation
-📐 DAX	Measures & Calculations
-🗂️ Data Modeling	Relationships & Data Structure
-📄 Excel / CSV	Data Source
+1.  Power BI	Dashboard & Data Visualization
+2.  ower Query	Data Cleaning & Transformation
+3.  AX	Measures & Calculations
+4. Data Modeling	Relationships & Data Structure
+5.  Excel / CSV	Data Source
 
 5. Project Workflow : 
 1.  Data Collection: The project uses PhonePe transaction data containing information related to transaction amounts, transaction counts, geographical locations, time periods, and transaction categories.
