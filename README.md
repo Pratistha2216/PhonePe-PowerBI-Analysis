@@ -106,5 +106,4 @@ The dashboard helps identify:
 
 These insights can help businesses understand digital payment behavior and regional transaction trends.
 
-7. Dashboard Preview
-🖥️ Power BI Dashboard
+7. Screenshot (https://github.com/Pratistha2216/PhonePe-PowerBI-Analysis/blob/main/Snapshot%20of%20the%20Dashboard.png)
