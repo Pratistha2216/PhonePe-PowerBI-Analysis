@@ -1,14 +1,14 @@
 # PhonePe-PowerBI-Analysis
 Recommended Structure and Order
-1. Project title / Headline
+1. Project title / Headline :
 PhonePe Data Analysis & Interactive Power BI Dashboard | Transaction Trends & Business Insights
 
-2. Short Description / Purpose
+2. Short Description / Purpose : 
 This project is an interactive Power BI dashboard developed to analyze PhonePe digital payment transaction data and extract meaningful business insights.
 The dashboard provides a comprehensive view of transaction performance across different states, districts, years, quarters, and transaction categories.
 The project demonstrates an end-to-end data analytics workflow, including data cleaning, transformation, data modeling, DAX calculations, KPI development, and interactive data visualization.
 
-3. Project Objective
+3. Project Objective :
 The primary objective of this project is to transform raw PhonePe transaction data into an interactive and easy-to-understand business intelligence dashboard.
 
 Key objectives:
@@ -21,7 +21,7 @@ Create meaningful KPIs
 Build an interactive dashboard for business analysis
 Generate actionable insights from transaction data
 
-4. Tools & Technologies
+4. Tools & Technologies : 
 Tool	Purpose
 📊 Power BI	Dashboard & Data Visualization
 🔄 Power Query	Data Cleaning & Transformation
@@ -29,7 +29,7 @@ Tool	Purpose
 🗂️ Data Modeling	Relationships & Data Structure
 📄 Excel / CSV	Data Source
 
-5. Project Workflow
+5. Project Workflow : 
 1.  Data Collection: The project uses PhonePe transaction data containing information related to transaction amounts, transaction counts, geographical locations, time periods, and transaction categories.
 
 2️. Data Cleaning: The raw data was cleaned and prepared using Power Query.
@@ -65,7 +65,7 @@ Average Transaction Value =DIVIDE(
 
 These measures were used throughout the dashboard to provide dynamic results.
 
-6. Dashboard Features
+6. Dashboard Features : 
 The dashboard contains multiple interactive visualizations and KPIs.
 1. KPI Cards: Displays important metrics such as:
 Total Transaction Amount
@@ -89,7 +89,7 @@ State
 Transaction Category
 Transaction Type
 
-🔍 Key Insights
+🔍 Key Insights : 
 The dashboard helps identify:
 
 📌 States with higher transaction activity
